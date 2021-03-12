@@ -9,7 +9,6 @@ This project is currently in development.
 
 ## Project Screen Shot(s)
 
-#### Example:   
 
 <p align="center">
   <img src="./img/1.png" alt="Size Limit CLI" >
