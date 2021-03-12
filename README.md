@@ -11,16 +11,6 @@ This project is currently in development.
 
 #### Example:   
 
-![alt text](https://github.com/anxalivn/studentPlanner/1-1-Splash Screen.png?)
-![alt text](https://github.com/anxalivn/studentPlanner/.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/1-3-Splash Screen.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/2-Home.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/3-Home Menu.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/4-Schedule.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/5-Reminder.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/6-Profile.png?raw=true)
-![alt text](https://github.com/anxalivn/studentPlanner/7-Profile.png?raw=true)
-
 <p align="center">
   <img src="./1-1-Splash Screen.png" alt="Size Limit CLI">
 </p>
