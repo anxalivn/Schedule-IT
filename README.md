@@ -11,7 +11,7 @@ This project is currently in development.
 
 #### Example:   
 
-![alt text](https://github.com/anxalivn/studentPlanner/1-1-Splash Screen.png?raw=true)
+![alt text](https://github.com/anxalivn/studentPlanner/1-1-Splash Screen.png)
 ![alt text](https://github.com/anxalivn/studentPlanner/1-2.png?raw=true)
 ![alt text](https://github.com/anxalivn/studentPlanner/1-3-Splash Screen.png?raw=true)
 ![alt text](https://github.com/anxalivn/studentPlanner/2-Home.png?raw=true)
