@@ -11,8 +11,8 @@ This project is currently in development.
 
 #### Example:   
 
-![alt text](https://github.com/anxalivn/studentPlanner/1-1-Splash Screen.png)
-![alt text](https://github.com/anxalivn/studentPlanner/1-2.png?raw=true)
+![alt text](https://github.com/anxalivn/studentPlanner/1-1-Splash Screen.png?)
+![alt text](https://github.com/anxalivn/studentPlanner/.png?raw=true)
 ![alt text](https://github.com/anxalivn/studentPlanner/1-3-Splash Screen.png?raw=true)
 ![alt text](https://github.com/anxalivn/studentPlanner/2-Home.png?raw=true)
 ![alt text](https://github.com/anxalivn/studentPlanner/3-Home Menu.png?raw=true)
@@ -21,6 +21,30 @@ This project is currently in development.
 ![alt text](https://github.com/anxalivn/studentPlanner/6-Profile.png?raw=true)
 ![alt text](https://github.com/anxalivn/studentPlanner/7-Profile.png?raw=true)
 
+<p align="center">
+  <img src="./1-1-Splash Screen.png" alt="Size Limit CLI">
+</p>
+<p align="center">
+  <img src="./1-2.png" alt="Size Limit CLI" >
+</p>
+<p align="center">
+  <img src="./1-3-Splash Screen.png" alt="Size Limit CLI">
+</p>
+<p align="center">
+  <img src="./2-Home.png" alt="Size Limit CLI" >
+</p>
+<p align="center">
+  <img src="./4-Schedule.png" alt="Size Limit CLI" >
+</p>
+<p align="center">
+  <img src="./5-Reminder.png" alt="Size Limit CLI" >
+</p>
+<p align="center">
+  <img src="./6-Profile.png" alt="Size Limit CLI" >
+</p>
+<p align="center">
+  <img src="./7-Profile.png" alt="Size Limit CLI" >
+</p>
 ## Installation and Setup Instructions
 
 #### Example:  
