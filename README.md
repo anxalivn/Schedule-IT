@@ -12,28 +12,31 @@ This project is currently in development.
 #### Example:   
 
 <p align="center">
-  <img src="./1-1-Splash Screen.png" alt="Size Limit CLI">
+  <img src="./img/1.png" alt="Size Limit CLI" >
 </p>
 <p align="center">
-  <img src="./1-2.png" alt="Size Limit CLI" >
+  <img src="./img/2.png" alt="Size Limit CLI">
 </p>
 <p align="center">
-  <img src="./1-3-Splash Screen.png" alt="Size Limit CLI">
+  <img src="./img/3.png" alt="Size Limit CLI" >
 </p>
 <p align="center">
-  <img src="./2-Home.png" alt="Size Limit CLI" >
+  <img src="./img/4.png" alt="Size Limit CLI" >
 </p>
 <p align="center">
-  <img src="./4-Schedule.png" alt="Size Limit CLI" >
+  <img src="./img/5.png" alt="Size Limit CLI" >
 </p>
 <p align="center">
-  <img src="./5-Reminder.png" alt="Size Limit CLI" >
+  <img src="./img/6.png" alt="Size Limit CLI" >
 </p>
 <p align="center">
-  <img src="./6-Profile.png" alt="Size Limit CLI" >
+  <img src="./img/7.png" alt="Size Limit CLI" >
 </p>
 <p align="center">
-  <img src="./7-Profile.png" alt="Size Limit CLI" >
+  <img src="./img/8.png" alt="Size Limit CLI" >
+</p>
+<p align="center">
+  <img src="./img/9.png" alt="Size Limit CLI" >
 </p>
 ## Installation and Setup Instructions
 
