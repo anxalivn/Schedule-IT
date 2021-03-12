@@ -1,0 +1,17 @@
+App Functionality
+First of all there are login page and register page, user can register in the app by providing required info, and this info will be stored in PhpMyAdmin database Through Api which is made in PHP. After that user can login in the app by providing email and password. User password is encrypted and no one can see the password of the user (even developer can’t). after successsfull login, user will redirect to the first page, which is semester schedules. 
+Here user can add his semesters and in each semester user can add his classes schedules. Only logged in user can see his record only. Every user record will be confidential, other users can only see his record.
+Second section is the daily reminder, where user can add his reminders by providing the required info. This info will be stored in server database.
+Third section is the Todo list, where user can add his todos and can manage his Todos.
+Fourth section is user Profile, where user can manage his profile details, like name, profile image etc.
+Fifth section is change password, where user can update his password.
+Database structure:
+ 
+There are different tables in database, each table store every user’s data.
+All the data is stored through the API. 
+I am using Hostgator server for the data storage.
+ 
+For the password, I am using the Hash encryption. For example, if user’s password is: 12345, it will not store as 12345 in database. If will be stored like the above picture (encrypted).
+In each table, I used normalization as shown below. Each record is stored against a user. So I can differentiate every user’s record for the privacy. 
+ 
+
