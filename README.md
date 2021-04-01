@@ -45,7 +45,7 @@ Clone this repository: https://github.com/anxalivn/studentPlanner
 
 Installation:
 
-`npm install`  
+`Install Android Emulator`
 
 To Run Test:  
 
