@@ -45,22 +45,14 @@ Clone this repository: https://github.com/anxalivn/studentPlanner
 
 Installation:
 
-`Install Android Emulator`
-
-To Run Test:  
-
-`npm test`  
+The repository contains a minimal Android Studio Project. Just clone and build the "app"-Module in Android Studio. The first build may need a internet connection as some libraries get downloaded by gradle.
 
 To Start App:
 
 Open installed apk. file on Android Emulator
+The app is not yet published to Google Play yet
+  
 
-## Built on
-
-  - Built on Javascript, XML, CSS.
-  - Framework used: React
-    
-
-#### Example:  
+#### Student Planner:  
 
 This was a 1 month project built during my senior project for CSIS492. Project goals included helping students keep track of their daily class schedule as well as to-do's, habit tracker, reminders.
