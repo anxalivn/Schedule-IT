@@ -4,7 +4,7 @@ An application aimed for college students to keep track of their schedule, and t
 
 ## Project Status
 
-On Android API 5+ only, IOS Update coming soon...
+On Android 10 (API level 29+) only, IOS Update coming soon...
 This project is currently in development.
 
 ## Project Screen Shot(s)
