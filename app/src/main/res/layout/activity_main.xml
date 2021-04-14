@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/myDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="March"
+        android:textColor="#FFF"
+        android:textSize="30sp"
+        android:layout_marginLeft="155dp"
+        android:layout_marginTop="48dp"
+
+        />
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="44dp"
+        android:layout_marginTop="30dp"
+        android:background="#FFF">
+
+
+        <CalendarView
+            android:layout_width="wrap_content"
+            android:layout_height="310dp">
+
+        </CalendarView>
+
+    </LinearLayout>
+    <Button
+        android:background="@drawable/backg_button"
+        android:layout_marginTop="35dp"
+        android:layout_marginLeft="80dp"
+        android:text="Save Reminder"
+        android:textColor="#FFF"
+        android:textSize="30dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
